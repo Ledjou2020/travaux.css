@@ -1,0 +1,9 @@
+div{
+    margin: 0px;
+    background-color: aquamarine;
+    padding: 50px 200px 50px;
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+}
